@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Programmer Website
 - 😄 I speak natively Indonesian and learn to speak English.
 
-<h3 align="center">My Social Media</h3>
-<p align="center">
+<h3 align="left">My Social Media</h3>
+<p align="left">
 <a href="https://twitter.com/ramamunaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramamunaaa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muh.ramadhanmuna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rama muna" height="30" width="40" /></a>
 <a href="https://instagram.com/ramvnzxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramvnzxx" height="30" width="40" /></a>
