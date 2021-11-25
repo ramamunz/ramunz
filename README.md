@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Ramadhan Muna</h1>
 
-- 👀 I’m interested in Developer Website
+- 👀 I’m interested in Web Developer
 - 😄 I speak natively Indonesian and learn to speak English.
 - 📫 You can reach me at my social media
 <h3 align="left">My Social Media</h3>
