@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/ramunz/ramunz/blob/0ac5128fb672b9536aa553e970a8a4a07f924f6e/Github.jpg)
+![MasterHead](https://github.com/ramunz/ramunz/blob/e51afde3779b43707f3fd889eedc47bc35c77d2b/Github.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Ramadhan Muna</h1>
 
