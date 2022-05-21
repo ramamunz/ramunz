@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/ramamunaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ramamunaaa" height="30" width="40" /></a>
 <a href="https://www.facebook.com/muh.ramadhanmuna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rama muna" height="30" width="40" /></a>
-<a href="https://instagram.com/ramvnzxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramvnzxx" height="30" width="40" /></a>
+<a href="https://instagram.com/ramamunz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramvnzxx" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramunz&show_icons=true&locale=en&layout=compact" alt="ramunz" /></p>
