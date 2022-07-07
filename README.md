@@ -1,4 +1,4 @@
-![Muhammad Ramadhan Muna's card name](https://cardivo.vercel.app/api?name=Muhammad%20Ramadhan%20Muna&description=Hi,I'm%20Muhammad%20Ramadhan%20Muna&image=https://avatars.githubusercontent.com/u/72817655?s=400&u=0c9e9a08a6555b225d481f48a8a948f1300c788f&v=4&backgroundColor=%230D1117&iconColor=%23eff4f6&instagram=ramamunztwitter=ramamunz&github=ramunz&pattern=bubbles&colorPattern=%3d85c6&fontColor=%23eff4f6)
+![Muhammad Ramadhan Muna's card name](https://cardivo.vercel.app/api?name=Muhammad%20Ramadhan%20Muna&description=Hi,I'm%20Muhammad%20Ramadhan%20Muna&image=https://avatars.githubusercontent.com/u/72817655?s=400&u=0c9e9a08a6555b225d481f48a8a948f1300c788f&v=4&backgroundColor=%230D1117&iconColor=%23eff4f6&instagram=ramamunz&twitter=ramamunz&github=ramunz&pattern=bubbles&colorPattern=%23355261&fontColor=%23eff4f6)
 
 <h1 align="center">Hi 👋, I'm Muhammad Ramadhan Muna</h1>
 
